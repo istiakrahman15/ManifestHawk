@@ -22,7 +22,6 @@ If ManifestHawk is useful to you, consider **starring the repository** — it he
 
 ## Screenshots
 
-> Screenshots below are placeholders and will be updated as new releases ship.
 
 | Home | Search |
 |:---:|:---:|
